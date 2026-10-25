@@ -1,5 +1,26 @@
 # log_sign_in
 
+A Flutter medical authentication app with login and signup screens.
+
+## Features
+
+- Login screen
+- Signup screen
+- Named-route navigation (`/login`, `/signup`)
+
+## Project structure
+
+- `lib/main.dart` - app entry point and routes
+- `lib/screens/` - `login_screen.dart` and `signup_screen.dart`
+
+## Run
+
+```bash
+flutter pub get
+flutter run
+```
+# log_sign_in
+
 A new Flutter project.
 
 ## Getting Started
